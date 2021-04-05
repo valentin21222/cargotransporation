@@ -1,0 +1,40 @@
+@media screen and (max-width: 1439px) {
+  .header {
+    max-width: 1439px;
+  }
+	.container {
+		width: 1110px;
+	}
+  .company {
+    max-width: 1439px;
+  }
+  .cargo {
+    max-width: 1439px;
+  }
+  .europe {
+    max-width: 1439px;
+    .europe__bg2 {
+      width: 567px;
+    }
+    .slick-arrow.slick-prev {
+      margin-right: 91px;
+    }
+    .span1 {
+      left: 39.5px;
+    }
+  }
+  .services {
+    max-width: 1439px;
+  }
+  .about {
+    max-width: 1439px;
+  }
+  .maps {
+    img {
+      max-width: 1439px;
+    }
+  }
+  .footer-info {
+    max-width: 1439px;
+  }
+}
